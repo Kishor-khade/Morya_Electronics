@@ -1,0 +1,9 @@
+customtkinter==5.2.1
+opencv-python==4.7.0.72
+PyQRCode==1.2.1
+pyzbar==0.1.9
+docxtpl==0.16.7
+docx2pdf==0.1.8
+num2words==0.5.13
+pandas==2.0.1
+tkcalendar==1.6.1
